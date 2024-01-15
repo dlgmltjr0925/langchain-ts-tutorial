@@ -1,4 +1,4 @@
 import 'dotenv/config';
-import { run } from './src/lcel/message-history';
+import { run } from './src/lcel/cookbook';
 
 run();
