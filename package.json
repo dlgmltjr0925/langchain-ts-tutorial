@@ -21,9 +21,11 @@
     "@langchain/community": "^0.0.17",
     "@langchain/core": "0.1.12",
     "@langchain/openai": "^0.0.11",
+    "@upstash/redis": "^1.28.1",
     "cheerio": "1.0.0-rc.12",
     "hnswlib-node": "^2.1.0",
-    "langchain": "^0.1.2"
+    "langchain": "^0.1.2",
+    "redis": "^4.6.12"
   },
   "resolutions": {
     "@langchain/core": "0.1.12"
