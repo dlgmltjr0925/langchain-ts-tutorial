@@ -16,6 +16,7 @@
     "typescript": "^5.3.3"
   },
   "dependencies": {
+    "@langchain/anthropic": "^0.0.9",
     "@langchain/community": "^0.0.17",
     "@langchain/core": "0.1.12",
     "@langchain/openai": "^0.0.11",
